@@ -31,7 +31,9 @@
 
 ## 注意Notice
 
-由于使用的是Jpcap库(https://github.com/jpcap/jpcap)，但Jpcap库上次更新已是13年前，在抓包方面的性能可能不适合现在(2024年)。若需改进请使用JNetPcap等其他新库。
+由于使用的是Jpcap库，但Jpcap库上次更新已是13年前，在抓包方面的性能可能不适合现在(2024年)。若需改进请使用JNetPcap等其他新库。
+
+Jpcap Github:https://github.com/jpcap/jpcap
 
 
 
